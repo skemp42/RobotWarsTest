@@ -1,0 +1,8 @@
+D:\Projects\Training\RobotWars\RW.Core\bin\Debug\netcoreapp2.1\RW.Core.deps.json
+D:\Projects\Training\RobotWars\RW.Core\bin\Debug\netcoreapp2.1\RW.Core.dll
+D:\Projects\Training\RobotWars\RW.Core\bin\Debug\netcoreapp2.1\RW.Core.pdb
+D:\Projects\Training\RobotWars\RW.Core\obj\Debug\netcoreapp2.1\RW.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Training\RobotWars\RW.Core\obj\Debug\netcoreapp2.1\RW.Core.AssemblyInfoInputs.cache
+D:\Projects\Training\RobotWars\RW.Core\obj\Debug\netcoreapp2.1\RW.Core.AssemblyInfo.cs
+D:\Projects\Training\RobotWars\RW.Core\obj\Debug\netcoreapp2.1\RW.Core.dll
+D:\Projects\Training\RobotWars\RW.Core\obj\Debug\netcoreapp2.1\RW.Core.pdb

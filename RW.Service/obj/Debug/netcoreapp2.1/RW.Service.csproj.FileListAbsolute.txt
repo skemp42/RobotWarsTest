@@ -1,0 +1,12 @@
+D:\Projects\Training\RobotWars\RW.Service\bin\Debug\netcoreapp2.1\RW.Service.deps.json
+D:\Projects\Training\RobotWars\RW.Service\bin\Debug\netcoreapp2.1\RW.Service.dll
+D:\Projects\Training\RobotWars\RW.Service\bin\Debug\netcoreapp2.1\RW.Service.pdb
+D:\Projects\Training\RobotWars\RW.Service\bin\Debug\netcoreapp2.1\RW.Core.dll
+D:\Projects\Training\RobotWars\RW.Service\bin\Debug\netcoreapp2.1\RW.Core.pdb
+D:\Projects\Training\RobotWars\RW.Service\obj\Debug\netcoreapp2.1\RW.Service.csprojAssemblyReference.cache
+D:\Projects\Training\RobotWars\RW.Service\obj\Debug\netcoreapp2.1\RW.Service.csproj.CoreCompileInputs.cache
+D:\Projects\Training\RobotWars\RW.Service\obj\Debug\netcoreapp2.1\RW.Service.AssemblyInfoInputs.cache
+D:\Projects\Training\RobotWars\RW.Service\obj\Debug\netcoreapp2.1\RW.Service.AssemblyInfo.cs
+D:\Projects\Training\RobotWars\RW.Service\obj\Debug\netcoreapp2.1\RW.Service.csproj.CopyComplete
+D:\Projects\Training\RobotWars\RW.Service\obj\Debug\netcoreapp2.1\RW.Service.dll
+D:\Projects\Training\RobotWars\RW.Service\obj\Debug\netcoreapp2.1\RW.Service.pdb
