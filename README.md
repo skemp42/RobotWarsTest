@@ -1,6 +1,6 @@
-# Project Title
+# Robot Wars
 
-Robot Wars! 
+A simple console application for a game of Robot Wars!
 
 ## Getting Started
 
